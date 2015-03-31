@@ -2,6 +2,8 @@ package com.tebasaki;
 
 // add comment
 
+// add comment2
+
 public class Tebasaki {
 
 	public static void main(String[] args) {
